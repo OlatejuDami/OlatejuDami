@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm Oluwadamilola! 👋
 
-<!--
-**OlatejuDami/OlatejuDami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a front-end developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently undergoing a training for developers.
+
+🧠 I'm currently learning HTML, CSS, Javascript 
+
+👯‍♀️ I'm looking to collaborate on open source projects
+
+
+📫 You can reach me for collaboration on projects that will heighten my front-end career.
+
+😄 Pronouns she/her
+
+⚡️ Fun fact: I'm a big fan of telling everybody about the impact of climate change
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
